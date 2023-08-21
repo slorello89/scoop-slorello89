@@ -1,11 +1,11 @@
 {
-  "version": "0.0.12",
+  "version": "0.0.14",
   "description": "The CLI tool for managing Redis Smart Cache",
   "homepage": "https://github.com/slorello89/redis-smart-cache-cli",
   "license": "MIT",
-  "url": "https://github.com/slorello89/redis-smart-cache-cli/releases/download/v0.0.12/smart-cache-cli-0.0.12.zip",
-  "hash": "sha256:84bcd2d8eb1eaeeb96bb818295550838d65f2521ff4ee95a6227c4761a231d04",
-  "extract_dir": "smart-cache-cli-0.0.12",
+  "url": "https://github.com/slorello89/redis-smart-cache-cli/releases/download/v0.0.14/smart-cache-cli-0.0.14.zip",
+  "hash": "sha256:4d509e7985d9610d260a46e006610dbd4c9d3a26c95eec2c51662d8f63f12d3d",
+  "extract_dir": "smart-cache-cli-0.0.14",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
